@@ -2,11 +2,16 @@
 
 This repository is for **Task0 submission**.
 
-## Current Status
-- Repo created - yes
-- Environment setup in progress (Windows + WSL2 with Ubuntu 20.04)
-- Tools (Yosys, Icarus Verilog, GTKWave) will be installed and verified
-- Snapshots and version outputs will be committed soon
+Environment: Windows + WSL2 (Ubuntu 24.04)
 
-## Submission
-This repo link is my **https://github.com/PMakhijani/sfal-vsd-task0.git**.
+This repo contains tool verification for:
+- Yosys
+- Icarus Verilog
+- GTKWave
+
+Files included:
+- yosys_version.txt
+- iverilog_version.txt
+- gtkwave_version.txt
+- test.vcd
+- screenshots of waveform on GTKwave
