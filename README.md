@@ -9,4 +9,4 @@ This repository is for **Task0 submission**.
 - Snapshots and version outputs will be committed soon
 
 ## Submission
-This repo link is my **https://github.com/PMakhijani/sfal-vsd-task0**.
+This repo link is my **https://github.com/PMakhijani/sfal-vsd-task0.git**.
